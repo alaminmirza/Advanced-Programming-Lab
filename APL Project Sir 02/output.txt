@@ -1,0 +1,45 @@
+students=4
+subjects=5
+
+
+ENG 111	2.00	Writing
+
+
+EEE 111	3.00	Basic Electrical Circuit
+
+
+EEE 112	1.00	Basic Electrical Circuit Lab
+
+
+SOC 101	3.00	Sociology
+
+
+CSE 106	1.00	Advance Programming Lab
+
+192400002	Md Sohel Mahmud Probondha
+5	15	30	30
+9	14	21	40
+4	10	28	40
+10	11	30	35
+2	15	29	38
+
+192400003	Md. Naim Talukder
+4	10	28	28
+9	14	21	29
+9	14	21	29
+9	12	15	30
+3	13	20	30
+
+192400005	Md. Ashraful Alam
+2	10	11	21
+9	14	21	29
+4	8	20	22
+8	18	15	30
+2	15	29	38
+
+193400002	Md. Kamrul hasan
+4	10	28	28
+8	18	15	30
+2	15	29	38
+4	10	28	28
+9	14	21	29

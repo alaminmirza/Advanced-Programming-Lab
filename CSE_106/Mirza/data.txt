@@ -1,0 +1,36 @@
+4,5
+ENG 111,Writing,2.0
+EEE 111,Basic Electrical Circuit,3.0
+EEE 112,Basic Electrical Circuit Lab,1.0
+SOC 101,Sociology,3.0
+CSE 106,Advance Programming Lab,1.0
+192400002,Md Sohel Mahmud Probondha
+5,15,30,30
+9,14,21,40
+4,10,28,40
+10,11,30,35
+2,15,29,38
+192400003,Md. Naim Talukder
+4,10,28,28
+9,14,21,29
+9,14,21,29
+9,12,15,30
+3,13,20,30
+192400005,Md. Ashraful Alam
+2,10,11,21
+9,14,21,29
+4,8,20,22
+8,18,15,30
+2,15,29,38
+193400002,Md. Kamrul hasan
+4,10,28,28
+8,18,15,30
+2,15,29,38
+4,10,28,28
+9,14,21,29
+193400024,Prosonjit Paul
+9,14,21,29
+8,18,15,30
+10,11,30,35
+9,14,21,40
+2,15,29,38

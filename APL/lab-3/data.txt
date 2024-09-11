@@ -1,0 +1,7 @@
+6
+1,CSE 106,Advanced Programming Lab,1.00,remarks
+1,CSE 477,Thesis/Project,2.00,remarks
+1,CSE 334,Database Management Systems Lab,1.00,remarks
+1,CSE 495,Digital Image Processing,3.00,remarks
+5,EEE 234,Electronics II Lab,1.00,remarks
+1,EEE 233,Electronics II,3.00,remarks
